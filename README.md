@@ -1,4 +1,4 @@
-# TwO-O-Player
+# Ruby Project - TwO-O-Player
 Ruby Math Game
 
 OOP-based command-line application with Ruby in order to practice and demonstrate your grasp of fundamental OOP.
